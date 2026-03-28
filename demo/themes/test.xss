@@ -1,0 +1,17 @@
+/* test.xss */
+bg          = #1E1E2E
+surface     = #313244
+surface_hov = #45475A
+surface_act = #585B70
+border      = #6C7086
+text        = #CDD6F4
+text_muted  = #A6ADC8
+accent      = #89B4FA   # blue
+accent_hov  = #B4BEFE   # lighter blue
+accent_act  = #74C7EC   # cyan
+accent_text = #1E1E2E   # dark text on accent
+bar_bg      = #181825
+bar_border  = #6C7086
+radius      = 6
+padding     = 8
+font_scale  = 1
